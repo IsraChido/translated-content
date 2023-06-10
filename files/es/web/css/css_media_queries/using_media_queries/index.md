@@ -220,7 +220,7 @@ Esto significa que la consulta anterior se evalúa así:
 
 ### Mejora de la compatibilidad con navegadores más antiguos
 
-La palabra clave `only` evita que los navegadores antiguos que no admiten _media queries_ con caracterñisticas de medios apliquen los estilos dados.
+La palabra clave `only` evita que los navegadores antiguos que no admiten _media queries_ con características de medios apliquen los estilos dados.
 _No tiene efecto en los navegadores modernos._
 
 ```css
